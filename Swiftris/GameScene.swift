@@ -29,5 +29,3 @@ class GameScene: SKScene {
         /* Called before each frame is rendered */
     }
 }
-
-//just testing out a git push!
